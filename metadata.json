@@ -1,0 +1,8 @@
+{
+  "name": "GB STUDY Web Portal",
+  "description": "A modern, responsive educational platform featuring organized courses, downloadable lecture notes, and seamless navigation for all devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
